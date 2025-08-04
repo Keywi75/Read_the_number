@@ -1,0 +1,13 @@
+D:\HK4\Lap_trinh_mang_can_ban\TH1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\HK4\Lap_trinh_mang_can_ban\TH1\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\HK4\Lap_trinh_mang_can_ban\TH1\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\HK4\Lap_trinh_mang_can_ban\TH1\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\HK4\Lap_trinh_mang_can_ban\TH1\Lab1\Lab1\obj\Debug\Lab1.Ex1.resources
+D:\HK4\Lap_trinh_mang_can_ban\TH1\Lab1\Lab1\obj\Debug\Lab1.Mainform.resources
+D:\HK4\Lap_trinh_mang_can_ban\TH1\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\HK4\Lap_trinh_mang_can_ban\TH1\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\HK4\Lap_trinh_mang_can_ban\TH1\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\HK4\Lap_trinh_mang_can_ban\TH1\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\HK4\Lap_trinh_mang_can_ban\TH1\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\HK4\Lap_trinh_mang_can_ban\TH1\Lab1\Lab1\obj\Debug\Lab1.Ex3.resources
+D:\HK4\Lap_trinh_mang_can_ban\TH1\Lab1\Lab1\obj\Debug\Lab1.Ex5.resources
